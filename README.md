@@ -12,7 +12,7 @@ Neural Network is a layered architecture, it contains an input layer, optional n
 
 an output layer.
 
-![alt text](https://github.com/itikalashiva/Logistic-Regression-Pima-Indians-Dataset/blob/main/screenshots/final.PNG)
+![alt text](https://github.com/itikalashiva/Nueral-Networks-Pima-Indians-Dataset/blob/main/Screenshots/NN.PNG)
 
 The above figure is a visual representation of the Neural network for binary classification, where n
 
@@ -124,8 +124,8 @@ List of Hyper parameters
 
 By passing the test data set values to the above trained model, it is giving an accuracy of 80.52%.
 
-![alt text](https://github.com/itikalashiva/Logistic-Regression-Pima-Indians-Dataset/blob/main/screenshots/final.PNG)
-![alt text](https://github.com/itikalashiva/Logistic-Regression-Pima-Indians-Dataset/blob/main/screenshots/final.PNG)
+![alt text](https://github.com/itikalashiva/Nueral-Networks-Pima-Indians-Dataset/blob/main/Screenshots/accuracy.PNG)
+![alt text](https://github.com/itikalashiva/Nueral-Networks-Pima-Indians-Dataset/blob/main/Screenshots/loss.PNG)
 
 **Conclusion**
 
