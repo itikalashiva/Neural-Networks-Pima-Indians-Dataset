@@ -1,4 +1,4 @@
-# Nueral-Networks-Pima-Indians-Dataset
+# Neural-Networks-Pima-Indians-Dataset
 
 Neural networks, also known as artificial neural networks (ANNs) or simulated neural networks (SNNs),
 
